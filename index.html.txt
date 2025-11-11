@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PPGR Essentials Bundle</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+
+    <!-- Header Section -->
+    <header class="bg-white shadow-md">
+        <div class="max-w-5xl mx-auto py-6 px-4 text-center">
+            <h1 class="text-xl font-bold text-gray-800">Cross-Tethered Preaching</h1>
+            <p class="text-sm text-gray-500">with McKay Caston</p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-4xl mx-auto p-4 md:p-10">
+
+        <!-- Hero Section -->
+        <section class="bg-white p-8 md:p-12 rounded-lg shadow-xl text-center">
+            <h2 class="text-xs font-semibold text-emerald-600 uppercase tracking-wider">An Accessible First Step</h2>
+            <h1 class="mt-2 text-3xl md:text-5xl font-extrabold text-gray-900 tracking-tight">The PPGR Essentials Bundle</h1>
+            <p class="mt-6 text-lg md:text-xl text-gray-700 max-w-2xl mx-auto">
+                Get the complete 4-Week Intensive replays, the <strong class="text-gray-900">complete PPGR Preaching System Video Course</strong>, and a library of essential bonus resources, all designed to help you build a sustainable preaching system you'll use every week.
+            </p>
+
+            <!-- The Four Promises -->
+            <div class="mt-10 grid grid-cols-1 md:grid-cols-2 gap-6 text-left">
+                <div class="flex items-start space-x-3">
+                    <svg class="flex-shrink-0 h-6 w-6 text-emerald-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    <p class="text-gray-700 text-lg">You’ll get instant <span class="font-bold text-emerald-600">traction</span> in sermon prep.</p>
+                </div>
+                <div class="flex items-start space-x-3">
+                    <svg class="flex-shrink-0 h-6 w-6 text-emerald-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    <p class="text-gray-700 text-lg">You’ll gain <span class="font-bold text-emerald-600">confidence</span> in delivery.</p>
+                </div>
+                <div class="flex items-start space-x-3">
+                    <svg class="flex-shrink-0 h-6 w-6 text-emerald-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    <p class="text-gray-700 text-lg">You’ll start hearing <span class="font-bold text-emerald-600">stories</span> of gospel impact.</p>
+                </div>
+                <div class="flex items-start space-x-3">
+                    <svg class="flex-shrink-0 h-6 w-6 text-emerald-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    <p class="text-gray-700 text-lg">You’ll experience <span class="font-bold text-emerald-600">margin</span> for ministry—and a real day off.</p>
+                </div>
+            </div>
+
+            <!-- CTA Button -->
+            <div class="mt-12">
+                <a href="https://www.crosstetheredpreaching.com/checkout/the-ppgr-essentials-bundle" class="inline-block bg-emerald-600 text-white font-bold text-lg px-12 py-4 rounded-lg shadow-lg hover:bg-emerald-700 transition duration-200">
+                    Get Instant Access to the Bundle
+                </a>
+                <p class="mt-4 text-sm text-gray-500">&nbsp;</p> <!-- Removed upgrade credit text -->
+            </div>
+        </section>
+
+        <!-- Core Offer: 4-Week Intensive -->
+        <section class="mt-12 bg-white p-8 md:p-12 rounded-lg shadow-xl">
+            <h2 class="text-3xl font-extrabold text-gray-900 tracking-tight">What You'll Learn in the 4-Week Intensive Replays</h2>
+            <p class="mt-5 text-lg text-gray-700">
+                This training is designed to help you transition from conventional 3-point sermons to preaching all four layers of the text (the redemptive story) in every sermon, with a weekly workflow that completes your Sunday sermon by Wednesday.
+            </p>
+            <p class="mt-4 text-lg text-gray-700">
+                You'll learn to craft messages characterized by biblical faithfulness, theological depth, gospel centrality, and practical relevance for real life.
+            </p>
+
+            <div class="mt-10 space-y-8">
+                <!-- Week 1 -->
+                <div class="flex flex-col md:flex-row">
+                    <div class="flex-shrink-0 mb-4 md:mb-0 md:mr-6">
+                        <span class="flex items-center justify-center h-12 w-12 rounded-full bg-emerald-100 text-emerald-700 font-bold text-xl">1</span>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold text-gray-900">Week 1: Get Instant Traction with Simplicity and Focus</h3>
+                        <p class="mt-2 text-gray-700">
+                            You'll discover the core concepts that bring immediate focus to your preparation and clarity to your delivery by learning how to gather your PPGR pre-sermon essentials before you write the message.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Week 2 -->
+                <div class="flex flex-col md:flex-row">
+                    <div class="flex-shrink-0 mb-4 md:mb-0 md:mr-6">
+                        <span class="flex items-center justify-center h-12 w-12 rounded-full bg-emerald-100 text-emerald-700 font-bold text-xl">2</span>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold text-gray-900">Week 2: Explore the Nuts and Bolts</h3>
+                        <p class="mt-2 text-gray-700">
+                            You’ll master the complete PPGR framework. We'll walk through every nut and bolt of the blueprint, giving you a clear roadmap that exchanges guesswork with a guided, step-by-step prep process.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Week 3 (Adapted) -->
+                <div class="flex flex-col md:flex-row">
+                    <div class="flex-shrink-0 mb-4 md:mb-0 md:mr-6">
+                        <span class="flex items-center justify-center h-12 w-12 rounded-full bg-emerald-100 text-emerald-700 font-bold text-xl">3</span>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold text-gray-900">Week 3: Open the Complete Toolbox</h3>
+                        <p class="mt-2 text-gray-700">
+                            You'll see the complete system in action. We'll show you how to integrate every tool and concept—from deep exegesis to sermon building—to move your draft deadline from Saturday night to Wednesday, creating space for your message to marinate.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Week 4 -->
+                <div class="flex flex-col md:flex-row">
+                    <div class="flex-shrink-0 mb-4 md:mb-0 md:mr-6">
+                        <span class="flex items-center justify-center h-12 w-12 rounded-full bg-emerald-100 text-emerald-700 font-bold text-xl">4</span>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold text-gray-900">Week 4: Customize Your Personal Workflow</h3>
+                        <p class="mt-2 text-gray-700">
+                            You'll learn how to build and deploy your customized, personal workflow. You won't just leave with ideas, you’ll have a complete preaching system that’s locked in and ready to be deployed.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- New Section: Complete Video Course -->
+        <section class="mt-12 bg-white p-8 md:p-12 rounded-lg shadow-xl">
+            <h2 class="text-3xl font-extrabold text-gray-900 tracking-tight">PLUS: The Complete PPGR Preaching System Video Course</h2>
+            <p class="mt-5 text-lg text-gray-700">
+                While the 4-Week Intensive shows you the workflow in a live workshop format, this is your complete, on-demand video library for mastering the PPGR system at your own pace.
+            </p>
+            <p class="mt-4 text-lg text-gray-700">
+                Go deeper into the why behind the how. This course is the foundational reference library you'll return to again and again as you refine your process and master the art of gospel-centered preaching.
+            </p>
+            <ul class="mt-6 list-disc list-outside pl-5 space-y-2 text-gray-700 text-lg">
+                <li class="pl-2">On-demand, self-paced video lessons.</li>
+                <li class="pl-2">A deep-dive reference for the entire framework.</li>
+                <li class="pl-2">The perfect complement to "PPGR Intensive" replays.</li>
+            </ul>
+        </section>
+
+        <!-- Bonus Section -->
+        <section class="mt-12 bg-white p-8 md:p-12 rounded-lg shadow-xl">
+            <h2 class="text-3xl font-extrabold text-gray-900 tracking-tight text-center">AND: Get This Entire Library of Bonus Trainings</h2>
+            <div class="mt-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Bonus 1 -->
+                <div class="flex items-center space-x-4 p-4">
+                    <svg class="flex-shrink-0 h-8 w-8 text-emerald-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.91 11.672a.375.375 0 010 .656l-5.603 3.113a.375.375 0 01-.557-.328V8.887c0-.286.307-.466.557-.327l5.603 3.112z" />
+                    </svg>
+                    <span class="font-semibold text-gray-800">How to Introduce a Sermon People Can't Wait to Hear</span>
+                </div>
+                <!-- Bonus 2 -->
+                <div class="flex items-center space-x-4 p-4">
+                    <svg class="flex-shrink-0 h-8 w-8 text-emerald-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.91 11.672a.375.375 0 010 .656l-5.603 3.113a.375.375 0 01-.557-.328V8.887c0-.286.307-.466.557-.327l5.603 3.112z" />
+                    </svg>
+                    <span class="font-semibold text-gray-800">Sermon Application Made Easy</span>
+                </div>
+                <!-- Bonus 3 -->
+                <div class="flex items-center space-x-4 p-4">
+                    <svg class="flex-shrink-0 h-8 w-8 text-emerald-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.91 11.672a.375.375 0 010 .656l-5.603 3.113a.375.375 0 01-.557-.328V8.887c0-.286.307-.466.557-.327l5.603 3.112z" />
+                    </svg>
+                    <span class="font-semibold text-gray-800">Faithful Pastoral Ministry in the Age of A.I.</span>
+                </div>
+                <!-- Bonus 4 -->
+                <div class="flex items-center space-x-4 p-4">
+                    <svg class="flex-shrink-0 h-8 w-8 text-emerald-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.91 11.672a.375.375 0 010 .656l-5.603 3.113a.375.375 0 01-.557-.328V8.887c0-.286.307-.466.557-.327l5.603 3.112z" />
+                    </svg>
+                    <span class="font-semibold text-gray-800">The Sermon Delivery Skill Builder Video Course</span>
+                </div>
+                <!-- Bonus 5 -->
+                <div class="flex items-center space-x-4 p-4">
+                    <svg class="flex-shrink-0 h-8 w-8 text-emerald-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.91 11.672a.375.375 0 010 .656l-5.603 3.113a.375.375 0 01-.557-.328V8.887c0-.286.307-.466.557-.327l5.603 3.112z" />
+                    </svg>
+                    <span class="font-semibold text-gray-800">The "Three-Block" Prep Method</span>
+                </div>
+                <!-- Bonus 6 -->
+                <div class="flex items-center space-x-4 p-4">
+                    <svg class="flex-shrink-0 h-8 w-8 text-emerald-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.91 11.672a.375.375 0 010 .656l-5.603 3.113a.375.375 0 01-.557-.328V8.887c0-.286.307-.466.557-.327l5.603 3.112z" />
+                    </svg>
+                    <span class="font-semibold text-gray-800">How to Study for a Sermon Video Course</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- 100% Upgrade Guarantee -->
+        <!-- 100% Upgrade Guarantee section removed -->
+        
+        <!-- Philosophical Foundations (Why it's a System) -->
+        <section class="mt-12 bg-white p-8 md:p-12 rounded-lg shadow-xl">
+            <h2 class="text-3xl font-extrabold text-gray-900 tracking-tight">This Isn't Another Course. It's a System.</h2>
+            <p class="mt-5 text-lg text-gray-700">
+                The last thing you need is another digital product gathering dust. The PPGR framework isn't a course you work through once; it's a method you apply every single week. It's built on four philosophical foundations that make it practical, theological, and sustainable.
+            </p>
+            <div class="mt-10 space-y-6">
+                <p class="text-gray-700"><strong class="text-gray-900">1. THEOLOGY:</strong> Practical homiletics is based on <span class="font-bold text-emerald-600">theological foundations</span>. The foundational, “practical” doctrine of the PPGR Preaching System is <span class="font-bold text-emerald-600">union with Christ</span>. To that end, we magnify the fullness of grace: the wonder of justifying grace, the beauty of adopting grace, and the transforming power of sanctifying grace.</p>
+                <p class="text-gray-700"><strong class="text-gray-900">2. PARTNERSHIP:</strong> We cut and stack logs—but the <span class="font-bold text-emerald-600">Spirit</span> must bring the fire.</p>
+                <p class="text-gray-700"><strong class="text-gray-900">3. HERMENEUTICS:</strong> Every text is an <span class="font-bold text-emerald-600">acorn</span>—that must be related to the Oak.</p>
+                <p class="text-gray-700"><strong class="text-gray-900">4. PROCESS:</strong> Simplicity → focus → clarity → impact</p>
+            </div>
+        </section>
+        
+        <!-- Final CTA -->
+        <section id="cta" class="mt-12 bg-gray-900 p-8 md:p-12 rounded-lg shadow-xl text-center">
+            <h2 class="text-3xl font-extrabold text-white">Get Instant Access to the PPGR Essentials Bundle</h2>
+            <p class="mt-5 text-xl text-gray-300 max-w-2xl mx-auto">
+                Start building your sustainable, gospel-centered preaching system today. Get the 4-Week Intensive Replays and the entire 6-course bonus library.
+            </p>
+            
+            <div class="my-10">
+                <span class="text-6xl font-extrabold text-white">$297</span>
+                <span class="text-lg text-gray-400">/ one-time payment</span>
+            </div>
+
+            <a href="https://www.crosstetheredpreaching.com/checkout/the-ppgr-essentials-bundle" class="inline-block bg-emerald-600 text-white font-bold text-lg px-16 py-4 rounded-lg shadow-lg hover:bg-emerald-700 transition duration-200">
+                Enroll in the Bundle Now
+            </a>
+            
+            <p class="mt-6 text-sm text-gray-400">&nbsp;</Section> <!-- Removed upgrade credit text -->
+        </section>
+
+        <!-- What's Not Included & About -->
+        <section class="mt-12 grid grid-cols-1 md:grid-cols-2 gap-8">
+            <!-- What's Not Included -->
+            <div class="bg-white p-6 rounded-lg shadow-lg">
+                <h4 class="text-xl font-bold text-gray-900">What's Not Included?</h4>
+                <p class="mt-3 text-gray-700">
+                    To make this bundle as affordable as possible, please note what's not included:
+                </p>
+                <ul class="mt-3 list-disc list-outside pl-5 space-y-2 text-gray-700">
+                    <li class="pl-2"><span class="font-semibold">No Live Coaching:</span> This bundle does not include the live weekly coaching calls or personal feedback from the PPGR360 program.</li>
+                    <li class="pl-2"><span class="font-semibold">No PPGR360 AI Assistant:</span> Access to the proprietary PPGR360 AI tool is reserved for the full coaching program.</li>
+                    <li class="pl-2"><span class="font-semibold">No PPGR Info Hub:</span> This is a self-contained training bundle, not the full PPGR360 community and info hub.</li>
+                </ul>
+                <p class="mt-4 text-gray-700">This bundle gives you the core *training* to build the system yourself!</p>
+            </div>
+
+            <!-- About McKay -->
+            <div class="bg-white p-6 rounded-lg shadow-lg">
+                <h4 class="text-xl font-bold text-gray-900">About Your Coach</h4>
+                <p class="mt-3 text-gray-700">
+                    McKay Caston, PhD, is a pastor, author, professor of homiletics, and the founder of Cross-Tethered Preaching.
+                </p>
+                <p class="mt-3 text-gray-700">
+                    His ministry is dedicated to helping pastors preach the fullness of God's grace with gospel clarity, confidence, and sustainability. The PPGR Preaching System® is his signature framework, built from years of pastoral experience and academic research to help you thrive in the weekly preaching load.
+                </p>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="text-center py-10 mt-12">
+        <p class="text-sm text-gray-500">&copy; 2025 Cross-Tethered Preaching. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
